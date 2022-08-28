@@ -1,0 +1,5 @@
+function gameObject (){
+    let game ={
+        
+    }
+}
